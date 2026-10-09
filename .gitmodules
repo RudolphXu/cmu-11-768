@@ -1,0 +1,3 @@
+[submodule "26Fall/assignment1/chess_app"]
+	path = 26Fall/assignment1/chess_app
+	url = https://github.com/cmu-agents/chess-app
